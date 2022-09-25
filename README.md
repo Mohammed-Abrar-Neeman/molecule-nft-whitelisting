@@ -4,6 +4,18 @@ Molecule App(Admin app) https://github.com/Mohammed-Abrar-Neeman/molecule-nft-wh
 
 Titans App(Client app) https://github.com/Mohammed-Abrar-Neeman/molecule-nft-whitelisting-client.git
 
+## Deployments in polygon mumbai
+
+Molecule Factory Address : 0xf1DFF4ed1ab2F3609454051DC4451bCeFB78f6C8
+
+https://mumbai.polygonscan.com/address/0xf1DFF4ed1ab2F3609454051DC4451bCeFB78f6C8
+
+Deployments in Rinkeby
+
+Molecule Factory Address : 0x1706F18AB2175d8a0701f2c8FF24AE3C2850AeD6
+
+https://rinkeby.etherscan.io/address/0x1706F18AB2175d8a0701f2c8FF24AE3C2850AeD6
+
 <img src="flowchart/NFTWhiteListing.drawio.png"  title="hover text">
 
 1. User can create their own Whitelisting NFT(ERC721 contract) from Molecule Factory , which can be used in their application for access control.
